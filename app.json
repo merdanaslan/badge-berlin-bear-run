@@ -1,0 +1,13 @@
+{
+  "id": "berlin-bear-run",
+  "name": "Berlin Bear Run",
+  "version": "1.3.4",
+  "author": "Merdan Aslan / Superteam Germany",
+  "summary": "Run through Berlin. Shaded bear, seamless scenery and the Summit gold Lambo.",
+  "icon": "play",
+  "accent": "FFCF32",
+  "category": "games",
+  "permissions": [
+    "led"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "note": "Approved bear animation frames and fixed sprite palette for the current game.",
+  "bear": [
+    {
+      "width": 24,
+      "height": 27,
+      "sha256": "ba25ffddf8070ad7902b3b583b1150bc549635d9896e20e99cde40368087bc53"
+    },
+    {
+      "width": 24,
+      "height": 27,
+      "sha256": "8499eb03b05d035192b336ca9335ad1cfd6dbc83c066166c1c929b7b7f5ccb23"
+    },
+    {
+      "width": 24,
+      "height": 27,
+      "sha256": "a0b0063734caee72d554e9c787ae584ab2a7f748ccb8e168f6356bfd2f163e16"
+    },
+    {
+      "width": 24,
+      "height": 27,
+      "sha256": "5d233ad4a8455808928e490db06fac9b7325e3f8e5d4140a14e6ca1a012899e9"
+    },
+    {
+      "width": 24,
+      "height": 27,
+      "sha256": "ba55daa7cad5add237f0533a53468f33142c515761b255d24b2423c08804ca1e"
+    },
+    {
+      "width": 24,
+      "height": 27,
+      "sha256": "7676137997e9aacea3a7f9a31d2665f829700ecb210fb76d9f14e4a39e95fd9e"
+    },
+    {
+      "width": 24,
+      "height": 27,
+      "sha256": "0dcb4e42c51376cb0325397eb41301701887bc2651c1fba05489874ea9ad7035"
+    },
+    {
+      "width": 24,
+      "height": 27,
+      "sha256": "5f92d0809af6e453b15ddcbfa8e8a0cdc5b13064e2f246af4c2fa480e40a3f28"
+    },
+    {
+      "width": 24,
+      "height": 27,
+      "sha256": "2511288707c4c4267bd43b72d2a16ea71957120b0db11d36d4f90094d0e54472"
+    },
+    {
+      "width": 24,
+      "height": 27,
+      "sha256": "12dad8acafdd7fb6d27ed14ffc2fde1300f6b5452175cd8771d1342b6d8e8dd8"
+    },
+    {
+      "width": 24,
+      "height": 27,
+      "sha256": "7617ce83115468f4a83a12c0bd1e0a1f1ef914e159027362869c31bf2143aa3f"
+    },
+    {
+      "width": 24,
+      "height": 27,
+      "sha256": "edac4efeb614d9287d8ed3d601c59b2dd4304ff09135eda261744fa858905617"
+    }
+  ],
+  "palette_sha256": "ec00452aa7960267e8c1057ef7c255c20f510b2e7f551f33328bba27c229b778"
+}
